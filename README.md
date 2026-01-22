@@ -6,28 +6,70 @@
 
 ---
 
-### "詠う心臓" (Utau Shinzou) - The Singing Heart
-
----
-
 ### About Me
 
 - 👨‍💻 Software Engineer & System Architect.
-- 🔭 Exploring the boundaries of AI, distributed systems, and human consciousness.
-- 🌱 Currently working on refactoring a legacy system with... unique challenges.
+
+### "詠う心臓" (Utau Shinzou) - The Singing Heart
+
+| **Now Playing** | **01:25 ━━━━●───── 03:26** | **🔁 🔀** |
+| :--- | :---: | :---: |
+| **月が満ちる** | `月詠み` | **🔉 🔊** |
+
+<details>
+<summary>📖 歌詞を表示 (View Lyrics)</summary>
+
+#### 月が満ちる
+
+過去になる今日と僕のこと
+*(已然成为过去的今日与我的故事)*
+白と黒の音 枯れた喉
+*(白黑错综的音律 干涸的喉管)*
+求める昨日と君の许
+*(所追求的昨日与你的身侧)*
+また生きていこうと思えたこと
+*(还有想要再度活下去这件事)*
+
+**「それでも」**
+*(「即便如此」)*
+
+そう 君はいつ照らす
+*(是的 不论何时你都始终照耀着我)*
+欠けない月だ
+*(正如无缺满月)*
 
 ---
 
-### Philosophy
+忘れたいなんて思う限り忘れられないのだろう
+*(只要还想着去忘却 大概就一直都忘不了吧)*
 
-I believe in building robust systems, both in code and in life. My goal is to create order from chaos, and to find meaning in the act of creation itself.
+どうせ死ぬんだって知ってるのに
+*(明知总有一天会死)*
+伤ついて縋って泣いて足掻いて息をしてるんだ?
+*(却还是会受伤、会坚持、会哭泣、会挣扎、会呼吸不是吗？)*
+
+望むのなら求めていけ
+*(你想的话就继续去追寻吧)*
+そうして出来た伤は挑んだ証だ
+*(这样一来新增的伤口便是你挑战的证明)*
+
+今を讴え
+*(那就讴歌当下此刻吧)*
 
 ---
 
-### Stats
+言葉よりも透明なもの
+*(比言语还要透明的东西)*
+想いよりもっと響くもの
+*(比心愿还要振聋发聩的东西)*
+形にしようと書いたのも
+*(想要将其保存成有形之物而书写下的东西也好)*
+まだ生きていようと思えばこそ
+*(都在脑中述说着「将会继续活下去」)*
 
-[![9x's GitHub stats](https://github-readme-stats.vercel.app/api?username=uaih3k9x&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
 ---
 
-> "盗春者" (Haru Dorobou)
+> **"春泥棒"**
+> *Spring is not a gift; it's a heist.*
