@@ -10,8 +10,6 @@
 
 - 👨‍💻 Software Engineer & System Architect.
 
-### "詠う心臓" (Utau Shinzou) - The Singing Heart
-
 | **Now Playing** | **01:25 ━━━━●───── 03:26** | **🔁 🔀** |
 | :--- | :---: | :---: |
 | **月が満ちる** | `月詠み` | **🔉 🔊** |
@@ -70,5 +68,3 @@
 </details>
 
 ---
-
-> **"春泥棒"**
