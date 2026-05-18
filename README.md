@@ -9,6 +9,7 @@
 ### About Me
 
 - 👨‍💻 Software Engineer & System Architect.
+- 🔒 Security Researcher | IoT/RFID Security
 
 | **Now Playing** | **01:25 ━━━━●───── 03:26** | **🔁 🔀** |
 | :--- | :---: | :---: |
