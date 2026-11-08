@@ -8,6 +8,8 @@
 
 ### About Me
 
+<img src="assets/kawano.gif" width="144" align="right" alt="pixel cat">
+
 - 👨‍💻 Software Engineer & System Architect.
 - 🔒 Security Researcher | IoT/RFID Security
 - 🖧 DevOps / Network — 机房、PXE、OpenWrt
